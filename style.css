@@ -1,0 +1,144 @@
+.main > img {
+  width: 10rem;
+  margin-left: 45%;
+}
+body {
+  background-color: aqua;
+}
+.first-card > h1 {
+  color: darkblue;
+}
+.first-lavash {
+  width: 25rem;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: white;
+  border-radius: 15px;
+}
+.second-lavash {
+  width: 25rem;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: white;
+  border-radius: 15px;
+}
+.second-lavash > img {
+  width: 100%;
+}
+.third-lavash {
+  width: 25rem;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: white;
+  border-radius: 15px;
+}
+.third-lavash > img {
+  width: 100%;
+}
+.forty-lavash {
+  width: 25rem;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: white;
+  border-radius: 15px;
+}
+.first-card {
+  display: flex;
+  justify-content: space-between;
+}
+.first-hamburger {
+  width: 25rem;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: white;
+  border-radius: 15px;
+}
+.second-hamburger {
+  width: 25rem;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: white;
+  border-radius: 15px;
+}
+.second-hamburger > img {
+  width: 100%;
+}
+.third-hamburger {
+  width: 25rem;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: white;
+  border-radius: 15px;
+}
+.first-hamburger > img {
+  width: 100%;
+}
+
+.third-hamburger {
+  width: 25rem;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: white;
+  border-radius: 15px;
+}
+.third-hamburger > img {
+  width: 100%;
+}
+.forty-hamburger {
+  width: 25rem;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: white;
+  border-radius: 15px;
+}
+.forty-hamburger > img {
+  width: 100%;
+}
+.second-card {
+  display: flex;
+  justify-content: space-between;
+}
+.first-drink {
+  width: 25rem;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: white;
+  border-radius: 15px;
+}
+.first-drink > img {
+  width: 100%;
+}
+.second-drink {
+  width: 25rem;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: white;
+  border-radius: 15px;
+}
+.second-drink > img {
+  width: 100%;
+}
+.third-drink {
+  width: 25rem;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: white;
+  border-radius: 15px;
+}
+.third-drink > img {
+  width: 100%;
+}
+.forty-drink {
+  width: 25rem;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: white;
+  border-radius: 15px;
+}
+.forty-drink > img {
+  width: 100%;
+}
+.third-card {
+  display: flex;
+  justify-content: space-between;
+}
